@@ -6,14 +6,15 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-JiaVerso-181717?style=flat-square&logo=github)](https://github.com/JiaVerso)
 [![ROS2](https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square&logo=ros)](https://docs.ros.org/en/humble/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics)]()
-[![MAVROS](https://img.shields.io/badge/MAVROS-ROS%20MAVLink-0A66C2?style=flat-square)](https://wiki.ros.org/mavros)
-[![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-1E88E5?style=flat-square)](https://ardupilot.org/)
-[![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square)](https://www.rt-thread.io/)
-[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square)](https://gazebosim.org/)
-[![AOPA](https://img.shields.io/badge/AOPA-UAV%20Pilot-0F766E?style=flat-square)]()
+[![MAVROS](https://img.shields.io/badge/MAVROS-ROS%20MAVLink-0A66C2?style=flat-square&logo=ros&logoColor=white)](https://wiki.ros.org/mavros)
+[![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-1E88E5?style=flat-square&logo=ardupilot&logoColor=white)](https://ardupilot.org/)
+[![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square&logo=rtthread&logoColor=white)](https://www.rt-thread.io/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/)
 
 </div>
 
