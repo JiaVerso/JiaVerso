@@ -15,7 +15,7 @@
 [![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square&logo=rtthread&logoColor=white)](https://www.rt-thread.io/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/)
 
-![](https://changkun.de/urlstat?mode=github&repo=talkgo/night)
+![](https://visitor-badge.laobi.icu/badge?page_id=talkgo.night)
 
 </div>
 
