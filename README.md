@@ -8,7 +8,6 @@
 [![ROS2](https://img.shields.io/badge/ROS%202-Humble-1E88E5?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics)]()
 [![MAVROS](https://img.shields.io/badge/MAVROS-MAVLink%20Bridge-00A6D6?style=flat-square&logo=ros&logoColor=white)](https://wiki.ros.org/mavros)
