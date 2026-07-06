@@ -9,7 +9,11 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics)]()
-[![Livox](https://img.shields.io/badge/Livox-MID360-00A3E0?style=flat-square)]()
+[![MAVROS](https://img.shields.io/badge/MAVROS-ROS%20MAVLink-0A66C2?style=flat-square)](https://wiki.ros.org/mavros)
+[![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-1E88E5?style=flat-square)](https://ardupilot.org/)
+[![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square)](https://www.rt-thread.io/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square)](https://gazebosim.org/)
+[![AOPA](https://img.shields.io/badge/AOPA-UAV%20Pilot-0F766E?style=flat-square)]()
 
 </div>
 
