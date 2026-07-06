@@ -15,58 +15,17 @@
 
 ---
 
-## Hi, I'm JiaVerso
-
-I focus on robotics software, autonomous navigation, SLAM, embedded control, and UAV ground station development.
-
-Currently building **SparkCar_ROS2_WS**, an autonomous navigation robot workspace based on ROS 2, Livox MID360, FAST-LIO2, Nav2, Hunter SE chassis control, and mapping/localization tools.
+<p align="center">
+  <em>
+    This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
+    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 ---
 
-## Main Project
-
-<div align="center">
-
-<a href="https://github.com/JiaVerso/SparkCar_ROS2_WS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiaVerso&repo=SparkCar_ROS2_WS&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-### SparkCar_ROS2_WS
-
-<table>
-<tr>
-<td width="58%">
-
-**SparkCar_ROS2_WS** is my autonomous navigation robot workspace.
-
-It integrates:
-
-- Hunter SE / Ackermann chassis driver
-- Livox MID360 LiDAR driver
-- FAST-LIO2 localization and mapping
-- PGO map optimization workflow
-- Nav2 global planning and local control
-- PCD to PGM map conversion
-- ROS 2 launch scripts for real robot testing
-
-</td>
-<td width="42%">
-
-```text
-SparkCar_ROS2_WS
-├─ HunterSE_Driver
-│  ├─ hunter_base
-│  ├─ hunter_msgs
-│  └─ ugv_sdk
-├─ SparkCar_Perception
-│  ├─ livox_ros_driver2
-│  ├─ fastlio2
-│  ├─ localizer
-│  └─ pgo
-├─ SparkCar_Navigation
-│  ├─ sparkcar_nav_bringup
-│  └─ hybrid_astar_planner
-└─ SparkCar_Tools
-   └─ pcd2pgm
