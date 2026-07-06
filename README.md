@@ -14,7 +14,6 @@
 [![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-1E88E5?style=flat-square&logo=ardupilot&logoColor=white)](https://ardupilot.org/)
 [![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square&logo=rtthread&logoColor=white)](https://www.rt-thread.io/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/)
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=talkgo.night)
 
 </div>
