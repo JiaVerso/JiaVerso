@@ -4,7 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+robots+that+sense%2C+map%2C+navigate+and+act.;ROS+2+autonomous+navigation+%2B+LiDAR+SLAM+%2B+embedded+control.;From+real+sensors+to+real+field+tests.)](https://git.io/typing-svg)
 
+<!-- 社交账号与个人主页勋章 -->
 [![GitHub](https://img.shields.io/badge/GitHub-JiaVerso-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/JiaVerso)
+[![Telegram](https://img.shields.io/badge/Telegram-@JiaVerso-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/JiaVerso)
+[![Gmail](https://img.shields.io/badge/Gmail-fught1970755442%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fught1970755442@gmail.com)
+[![Wiki](https://img.shields.io/badge/Wiki-opentech.wiki-0F172A?style=flat-square&logo=readthedocs&logoColor=38BDF8)](https://www.opentech.wiki)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JiaVerso.JiaVerso&style=flat-square&color=14b8a6)
+
+<!-- 技术栈勋章 -->
 [![ROS2](https://img.shields.io/badge/ROS%202-Humble-1E88E5?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)]()
@@ -14,7 +21,6 @@
 [![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-1E88E5?style=flat-square&logo=ardupilot&logoColor=white)](https://ardupilot.org/)
 [![RT-Thread](https://img.shields.io/badge/RT--Thread-RTOS-ED1C24?style=flat-square&logo=rtthread&logoColor=white)](https://www.rt-thread.io/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F58113?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/)
-![](https://visitor-badge.laobi.icu/badge?page_id=talkgo.night)
 
 </div>
 
@@ -41,4 +47,3 @@
 </p>
 
 ---
-
